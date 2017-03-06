@@ -5,3 +5,7 @@ Requirements List for Project 1
 3. The program shall request users to fill out an evaluation of the course in the form of a multiple choice survey.
 4. The program should allow users to set up a profile about themselves.
 5. The program should have a log in system for returning users.
+6. The program shall have an admin panel.
+7. The program shall validate submissions.
+8. The program shall provide data visualizations based on reviews.
+9. The program should provide final projects for interested students.
