@@ -4,7 +4,8 @@ Allows user to write reviews on the courses they've taken. This spec is not comp
 
 Scenario
 
-Tim wants to share his experience and feedback on taking a course. He hopes that this information will be help others in making their decision on whether to take the same course or not. 
+- Tim wants to share his experience and feedback on taking a course. He hopes that this information will be help others in making their decision on whether to take the same course or not. 
+- Bob had a negative experience in one of his classes, and needs one place to share his thoughts for other potential students considering the class.
 
 Non-goals
 
@@ -23,3 +24,9 @@ Home page will serve three purposes.
 3. Allow new user to sign up and create an account.
 
 Log in Form
+1. Will ask user for username and password
+2. Will have an option to create a new account
+
+Post-Login Homepage
+1. Will have button to add new review
+2. 
