@@ -1,0 +1,20 @@
+Overview
+
+Allows user to write reviews on the courses they've taken. This spec is not complete. Revisions will be made accordingly.
+
+Scenario
+
+Tim wants to share his experience and feedback on taking a course. He hopes that this information will be help others in making their decision on whether to take the same course or not. 
+
+Non-goals
+
+This application will not support the following features:
+1. Direct messages.
+
+Flowchart
+
+Screen by Screen specifications
+
+Homepage
+
+Log in Form
