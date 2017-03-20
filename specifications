@@ -22,11 +22,25 @@ Home page will serve three purposes.
 1. A brief introduction to the services of the application.
 2. Allow members to login.
 3. Allow new user to sign up and create an account.
+4. Allow user to post a review (will be redirected to login page)
+5. Allow user to view reviews
+6. Allow user to view users' public profile
 
 Log in Form
 1. Will ask user for username and password
 2. Will have an option to create a new account
+3. Will have an option to change the password
 
 Post-Login Homepage
-1. Will have button to add new review
-2. 
+1. Display a button to sign out 
+2. Allow user to post a review
+3. Allow user to view reviews
+4. Allow user to view users' public profile
+
+Profile/account page
+1. Allow user to update their email address
+2. Allow user to update their password
+3. Allow user to edit their reviews 
+4. Allow user to view their reviews
+5. Allow user to delete their reviews
+6. Allow user to delete their account
